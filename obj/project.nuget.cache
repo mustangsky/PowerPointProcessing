@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jDDmyKs3fCicXOCBd54MM8gKbg1fWNmQSOFkbB8O8Vo55rLYvmDfTBoAebpqjMZUdyksJPkN5cbHigS6X+HdxA==",
+  "success": true,
+  "projectFilePath": "G:\\repos\\ProcessPowerPointTemplate\\ProcessPowerPointTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\share\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\share\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
